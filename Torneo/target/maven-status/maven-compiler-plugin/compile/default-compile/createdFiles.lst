@@ -1,0 +1,6 @@
+com\Torneo\TorneoDeLatas\Controladores\PortalControlador.class
+com\Torneo\TorneoDeLatas\Excepciones\Miexception.class
+com\Torneo\TorneoDeLatas\Servicios\usuarioServicio.class
+com\Torneo\TorneoDeLatas\Repositorio\UsuarioRepositorio.class
+com\Torneo\TorneoDeLatas\entidades\Usuario.class
+com\Torneo\TorneoDeLatas\TorneoDeLatasApplication.class
